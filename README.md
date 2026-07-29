@@ -1,34 +1,24 @@
-# Milo 👋
+# Milo
 
-I'm a marketer who ships. Most of what I "write" now is software — agents, small tools, and sites that do a job.
+I'm a marketer who builds. I run an AI product studio called [miloai.agency](https://miloai.agency), and I ship my own products alongside it.
 
-This profile is the portfolio: what I've built, why, and what I learned. Repos here are **showcases** — architecture, decisions, and teardowns. Source stays private where the product is live.
+Right now most of my time goes into [emailed.chat](https://emailed.chat).
 
----
+The repos here are write-ups, not source code. What each thing is, why I built it the way I did, and what didn't work.
 
-### Currently
-
-- **[hand.computer](https://hand.computer)** — a hand for your Mac. Press a key, say a task, watch it get done.
-- **[emailed.chat](https://emailed.chat)** — email, reimagined as an iMessage thread.
-- **[mostfunded.ai](https://mostfunded.ai)** — a live leaderboard of the most funded YC companies, refreshed by an agent.
-- **[milo.gg](https://hey.milo.gg)** — my corner of the internet.
-
-### What I build
+### What I'm building
 
 | | |
 |---|---|
-| 🖐️ **[hand](https://github.com/iammiloai/hand)** | macOS agent that controls your computer for you |
-| 📬 **[emailed-chat](https://github.com/iammiloai/emailed-chat)** | email reimagined as an iMessage thread |
-| 🔗 **[l1nk](https://github.com/iammiloai/l1nk)** | LinkedIn growth strategist you text like a friend |
-| 📊 **[mostfunded](https://github.com/iammiloai/mostfunded)** | agent-maintained YC funding leaderboard |
-| 🌐 **[milo-site](https://github.com/iammiloai/milo-site)** | personal site, moved off a no-code host onto real infra |
-
-### How I work
-
-- Agents over dashboards. If a workflow can be a conversation, it should be.
-- Approval-gated by default — an agent that acts on your behalf has to be trustworthy before it's fast.
-- Ship it, then measure it. Every repo here has a "what flopped" section, not just a demo.
+| **[emailed.chat](https://github.com/iammiloai/emailed.chat)** | My main product. Your email as a chat. |
+| **[hand.computer](https://github.com/iammiloai/hand.computer)** | A Mac app that does things on your computer for you. |
+| **[l1nk.ai](https://github.com/iammiloai/l1nk.ai)** | A LinkedIn coach you text. |
+| **[mostfunded.ai](https://github.com/iammiloai/mostfunded.ai)** | A leaderboard of the most funded YC companies. |
+| **[milo.gg](https://github.com/iammiloai/milo.gg)** | My personal site. |
 
 ### Elsewhere
 
-[milo.gg](https://hey.milo.gg) · [LinkedIn](https://www.linkedin.com/in/iammiloai/) · milo@milo.gg
+- [miloai.agency](https://miloai.agency), my AI product studio
+- [LinkedIn](https://www.linkedin.com/in/iammiloai/), where I post about building with AI
+- [AI events I host](https://uma.com/VCN)
+- milo@milo.gg
