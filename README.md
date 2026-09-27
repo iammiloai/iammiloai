@@ -1,6 +1,6 @@
 # Milo
 
-I'm a marketer who builds. I run an AI product studio called [miloai.agency](https://miloai.agency), and I ship my own products alongside it.
+I'm a marketer who builds. I ship my own products.
 
 ### What's here
 
@@ -8,7 +8,6 @@ I'm a marketer who builds. I run an AI product studio called [miloai.agency](htt
 
 ### Elsewhere
 
-- [miloai.agency](https://miloai.agency), my AI product studio
 - [LinkedIn](https://www.linkedin.com/in/iammiloai/), where I post about building with AI
 - [AI events I host](https://uma.com/VCN)
 - milo@milo.gg
